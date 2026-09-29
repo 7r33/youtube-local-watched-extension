@@ -2,6 +2,8 @@
 
 A Brave-compatible extension that tracks watched YouTube videos locally in this browser, without signing in to YouTube.
 
+This is a **personal backup fork** of [VarunBilakanti/youtube-local-watched-extension](https://github.com/VarunBilakanti/youtube-local-watched-extension).
+
 ## Prerequisites
 
 - Brave Browser installed.
